@@ -10,7 +10,7 @@ Download Wgrib2 CLI: https://easyupload.io/0k4mtp <br>
 then you need to change this params in appsettings.json file : <br>
 <img src="https://user-images.githubusercontent.com/69496372/137588809-676c9886-2bf7-4528-8f3f-adc8edce52f9.png"/> <br>
 
-<b>wgrib2:appPath</b> :  wgrib cli app path in local decive. <br>
+<b>wgrib2:appPath</b> :  wgrib CLI app path in local device. <br>
 <b>NOAA_GFS_S3:grb2filesDirectory</b> : where to store/find the GRIB files in local device. <br>
 
 
