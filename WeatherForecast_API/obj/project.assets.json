@@ -3409,11 +3409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\WeatherForecast_API\\WeatherForecast_API.csproj",
+      "projectUniqueName": "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\WeatherForecast_API\\WeatherForecast_API.csproj",
       "projectName": "WeatherForecast_API",
-      "projectPath": "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\WeatherForecast_API\\WeatherForecast_API.csproj",
+      "projectPath": "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\WeatherForecast_API\\WeatherForecast_API.csproj",
       "packagesPath": "C:\\Users\\Hosny Ganaiem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\WeatherForecast_API\\obj\\",
+      "outputPath": "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\WeatherForecast_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hosny Ganaiem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3430,8 +3430,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\Wgrib2_Operator\\Wgrib2_Operator.csproj": {
-              "projectPath": "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\Wgrib2_Operator\\Wgrib2_Operator.csproj"
+            "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\Wgrib2_Operator\\Wgrib2_Operator.csproj": {
+              "projectPath": "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\Wgrib2_Operator\\Wgrib2_Operator.csproj"
             }
           }
         }

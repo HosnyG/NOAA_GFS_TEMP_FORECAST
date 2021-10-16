@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\Wgrib2_Operator\\Wgrib2_Operator.csproj": {}
+    "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\Wgrib2_Operator\\Wgrib2_Operator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\Wgrib2_Operator\\Wgrib2_Operator.csproj": {
+    "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\Wgrib2_Operator\\Wgrib2_Operator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\Wgrib2_Operator\\Wgrib2_Operator.csproj",
+        "projectUniqueName": "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\Wgrib2_Operator\\Wgrib2_Operator.csproj",
         "projectName": "Wgrib2_Operator",
-        "projectPath": "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\Wgrib2_Operator\\Wgrib2_Operator.csproj",
+        "projectPath": "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\Wgrib2_Operator\\Wgrib2_Operator.csproj",
         "packagesPath": "C:\\Users\\Hosny Ganaiem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\Wgrib2_Operator\\obj\\",
+        "outputPath": "C:\\Users\\Hosny Ganaiem\\Source\\Repos\\Github\\NOAA_GFS_TEMP_FORECAST\\Wgrib2_Operator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hosny Ganaiem\\AppData\\Roaming\\NuGet\\NuGet.Config",
