@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Wgrib2_Operator/1.0.0": {
+        "dependencies": {
+          "CliWrap": "3.3.3"
+        },
+        "runtime": {
+          "Wgrib2_Operator.dll": {}
+        }
+      },
+      "CliWrap/3.3.3": {
+        "runtime": {
+          "lib/netcoreapp3.0/CliWrap.dll": {
+            "assemblyVersion": "3.3.3.0",
+            "fileVersion": "3.3.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wgrib2_Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CliWrap/3.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rnP29BOHYRHo/fyONoZltDNUVeMk44SqbsnsfPjeTyflilbzmQY+6xsSX5r/NWe7rud9gJtxCHDvrCFMUa3gOg==",
+      "path": "cliwrap/3.3.3",
+      "hashPath": "cliwrap.3.3.3.nupkg.sha512"
+    }
+  }
+}

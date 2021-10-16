@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CCsOfpM4bGrWsEGRJydcCLBSHRLoApKoAnST8aCiNVE3TZhXDSRCjMhiVoDQiqxnnMhQTkDTp7TYuI3eJQX2IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hosny Ganaiem\\source\\repos\\ICE\\Wgrib2_Operator\\Wgrib2_Operator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hosny Ganaiem\\.nuget\\packages\\cliwrap\\3.3.3\\cliwrap.3.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\Hosny Ganaiem\source\repos\ICE\Wgrib2_Operator\bin\Debug\netcoreapp3.1\Wgrib2_Operator.deps.json
+C:\Users\Hosny Ganaiem\source\repos\ICE\Wgrib2_Operator\bin\Debug\netcoreapp3.1\Wgrib2_Operator.dll
+C:\Users\Hosny Ganaiem\source\repos\ICE\Wgrib2_Operator\bin\Debug\netcoreapp3.1\Wgrib2_Operator.pdb
+C:\Users\Hosny Ganaiem\source\repos\ICE\Wgrib2_Operator\obj\Debug\netcoreapp3.1\Wgrib2_Operator.AssemblyInfoInputs.cache
+C:\Users\Hosny Ganaiem\source\repos\ICE\Wgrib2_Operator\obj\Debug\netcoreapp3.1\Wgrib2_Operator.AssemblyInfo.cs
+C:\Users\Hosny Ganaiem\source\repos\ICE\Wgrib2_Operator\obj\Debug\netcoreapp3.1\Wgrib2_Operator.csproj.CoreCompileInputs.cache
+C:\Users\Hosny Ganaiem\source\repos\ICE\Wgrib2_Operator\obj\Debug\netcoreapp3.1\Wgrib2_Operator.dll
+C:\Users\Hosny Ganaiem\source\repos\ICE\Wgrib2_Operator\obj\Debug\netcoreapp3.1\Wgrib2_Operator.pdb

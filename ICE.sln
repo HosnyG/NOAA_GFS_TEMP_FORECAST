@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecast_API", "WeatherForecast_API\WeatherForecast_API.csproj", "{E427B1A8-EDA7-4D7F-B827-3972C2FBC72B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wgrib2_Operator", "Wgrib2_Operator\Wgrib2_Operator.csproj", "{98F266C0-9796-484C-BDC0-C34D286AB9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E427B1A8-EDA7-4D7F-B827-3972C2FBC72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E427B1A8-EDA7-4D7F-B827-3972C2FBC72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E427B1A8-EDA7-4D7F-B827-3972C2FBC72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E427B1A8-EDA7-4D7F-B827-3972C2FBC72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F266C0-9796-484C-BDC0-C34D286AB9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F266C0-9796-484C-BDC0-C34D286AB9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F266C0-9796-484C-BDC0-C34D286AB9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F266C0-9796-484C-BDC0-C34D286AB9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC82D44E-0EE5-460D-85D1-797CA47C4A6C}
+	EndGlobalSection
+EndGlobal
